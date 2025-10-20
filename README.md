@@ -16,9 +16,9 @@ Dpi changer program with python.
 YOU CAN SELECT FOLDER OR İMAGES 
 
 
-<img width="449" height="472" alt="46" src="https://github.com/user-attachments/assets/93a612b2-de1e-4386-ac67-2a2d7026c38e" />
+<img width="380" height="373" alt="46" src="https://github.com/user-attachments/assets/93a612b2-de1e-4386-ac67-2a2d7026c38e" />
 
-<img width="448" height="471" alt="47" src="https://github.com/user-attachments/assets/342516c9-18ce-4eef-9994-74a55fc20f26" />
+<img width="380" height="375" alt="47" src="https://github.com/user-attachments/assets/342516c9-18ce-4eef-9994-74a55fc20f26" />
 
 
 PRESS THE (CHANGE DPİ) BUTTON
