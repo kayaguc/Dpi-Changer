@@ -8,8 +8,8 @@ Dpi changer program with python.
 
 4- Press the Change DPİ
 
+<img width="912" height="448" alt="42" src="https://github.com/user-attachments/assets/c75185c9-c97f-4c4d-a99b-676a1f0aaa05" />
 
-<img width="3125" height="3125" alt="EXtract files" src="https://github.com/user-attachments/assets/4181385c-d268-4038-b91c-be81c9f887ee" />
 
 <img width="908" height="446" alt="43" src="https://github.com/user-attachments/assets/f7285563-4fe5-49d5-96cf-2192009116ce" />
 
