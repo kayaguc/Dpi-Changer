@@ -25,3 +25,11 @@ PRESS THE (CHANGE DPİ) BUTTON
 
 
 <img width="449" height="468" alt="Untitled" src="https://github.com/user-attachments/assets/baee8486-bc35-4324-9472-a6abc89241fa" />
+
+RESULTS
+
+<img width="326" height="83" alt="1" src="https://github.com/user-attachments/assets/80f14b1a-6bc9-4595-968e-6436a08069aa" />
+
+<img width="455" height="114" alt="2" src="https://github.com/user-attachments/assets/4d09cb65-7ed9-4c89-bd6b-5c54bd903fb3" />
+
+
